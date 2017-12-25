@@ -1,0 +1,14 @@
+/.idea
+
+*.log
+
+config.php
+
+admin/config.php
+
+image/*
+
+storage/*
+
+install
+
